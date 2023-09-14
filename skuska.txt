@@ -1,3 +1,11 @@
-Prvy komit
-Druhy c
-Treti c
+Kommit 1
+Kommit 2
+Kommit 3 Skuska interaktivneho rebasu
+Nova brancha zmeny
+
+Main 2 zmeny na rovnakom riadku
+Dodané zmeny v branchi macka
+Prca
+Doplnky v branchi a pod. ....
+
+Novy subor
